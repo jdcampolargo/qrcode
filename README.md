@@ -24,6 +24,14 @@ logo.save("JuanDavidCampolargo_Website_QRCode.jpg")
 ```
 Tip: use Replit.com to get the QR code in 3 seconds. Copy and paste the code above and you'll have your QR code!
 
+Here's how:
+
+1) http://replit.new (and select Python)
+2) Copy & Paste code from http://github.com/jdcampolargo/qrcode
+3) Run it
+
+BINGO! A QR CODE FOR LIFE!!!!
+
 ## Contact
 Juan David Campolargo
 * [Website](https://juandavidcampolargo.com/contact)
