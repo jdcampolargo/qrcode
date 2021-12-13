@@ -22,6 +22,7 @@ logo = qrcode.make("https://www.JuanDavidCampolargo.com/")
 logo.save("JuanDavidCampolargo_Website_QRCode.jpg")
 
 ```
+Tip: use replit to get the code in 3 seconds. Copy and paste the code above and you'll have your code!
 
 ## Contact
 Juan David Campolargo
